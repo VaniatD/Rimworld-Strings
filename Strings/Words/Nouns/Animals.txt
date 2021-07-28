@@ -121,7 +121,6 @@ opossum
 ostrich
 otter
 owl
-ox
 oyster
 panther
 parrot
@@ -161,7 +160,6 @@ stork
 swan
 tapir
 tarsier
-termite
 tiger
 toad
 trout
